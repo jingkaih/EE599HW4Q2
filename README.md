@@ -4,7 +4,7 @@ If it's -1, it then means the the supposed output (index) is not exist.
 
 The tree I created in gtest was like this:
 
-----------------9-----------------
+                9
                / \
               8   6
              / \ / \
