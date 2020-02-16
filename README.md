@@ -3,6 +3,7 @@ If the output is INT16_MAX, it means the supposed output (value) is not exist.
 If it's -1, it then means the the supposed output (index) is not exist.
 
 The tree I created in gtest was like this:
+
 ----------------9-----------------
                / \
               8   6
